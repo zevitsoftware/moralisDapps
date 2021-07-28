@@ -1,0 +1,8 @@
+{
+  "apps" : [{
+    "name"        : "Put Presale Server",
+    "script"      : "index.js",
+    "watch"       : true,
+    "max_memory_restart" : "1000M"
+  }]
+}
